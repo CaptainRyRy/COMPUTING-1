@@ -74,7 +74,7 @@ function draw() {
 
   fill(0);
   textAlign(CENTER);
-  textSize(12);
+  textSize(36);
   text("Your treads have been disabled by the fascists! Defend the Union! Controls: Left Arrow Key + X", width/2, 40);
 
   for(var i=0; i<allSprites.length; i++) {
