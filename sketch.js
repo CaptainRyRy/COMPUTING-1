@@ -3,22 +3,11 @@ Title: Anti-Capitalist Computing: Ternary Code and Fighting Fascists.
 Imagined, Designed, and Programmed by: Riley Soto
 Date: 12-15-2017
 Description: Learn a little bit about Setun, the ternary computer made in Moscow State University, and follow it up with most Soviet of activities: Fighting fascists!
-Sources of ideas and inspiration (title, author, URL):
- * 
- *
- *
+Sources of ideas and inspiration: 
+ * La Molleindustria, La Molleindustria, http://www.molleindustria.org/
  
 Includes code from (title, author, URL):
- * 
- * 
- *
- 
-<Reminders, you can delete:>
-<Use command + T to auto-indent your code for cleaner formatting>
-<Check that variable and function names are easy to read and understand. eg. "squareButton" vs.
-"shapeButton2">
-<If you can't remember where you found some code, Google the text to find it.>
-<Put your name in the name of this file!>
+ * p5.play library site, Paolo Pedercini (who works at La Molleindustria, I didn't realize this until much later, how funny is that?), http://p5play.molleindustria.org/
 */
 
 
